@@ -15,8 +15,8 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https:// twitter.com/itaminosakebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/twitter.svg" alt="itaminosakebi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kemalguney" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "kemalguney" yükseklik="30" genişlik="40" /></a>
+<a href="https:// twitter.com/itaminosakebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/twitter.svg" alt="itaminosakebi" height="30" width="40" /></a> <
+a href="https://linkedin.com/in/linkedin.com/in/kemalguney/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in -alt.svg" alt="linkedin.com/in/kemalguney/"yükseklik="30" genişlik="40" /></a>
 <a href="https://fb.com/kingsauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="kingsauron" height="30" width="40" /></a>
 <a href="https://instagram.com/kemal .south" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt="kemal.south" height="30" width="40" /></a> <
 a href="https://www.youtube.com/c//channel/uciolsjjzlqdeh6ls0n71nva" target= "boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/uciolsjjzlqdeh6ls0n71nva" height="30" width=" 40" /></a>
