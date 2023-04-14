@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Kemal Güney</h1>
+<h1 align="center">Merhaba 👋, Ben Kemal GÜNEY </h1>
 <h3 align="center">Türkiye'den bir önyüz geliştiricisi</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=banshotenin&label=Profile%20views&color=0e75b6&style=flat" alt="banshotenin" /> </p>
