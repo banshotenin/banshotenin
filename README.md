@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/kemalguney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalguney/" height="30" width="40" /></a>
 <a href="https://fb.com/kingsauron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kingsauron/" height="30" width="40" /></a>
 <a href="https://instagram.com/kemal.south/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kemal.south/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/kemalsouth3040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/kemalsouth3040" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/kemalsouth3040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/kemalsouth3040" height="30" width="40" /></a>
 <a href="https://discord.gg/3148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3148" height="30" width="40" /></a>
 </p>
 
