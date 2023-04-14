@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Kemal GÜNEY </h1>
+<h1 align="center">Merhaba 👋, ben Kemal Güney</h1>
 <h3 align="center">Türkiye'den bir önyüz geliştiricisi</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=banshotenin&label=Profile%20views&color=0e75b6&style=flat" alt="banshotenin" /> </p>
@@ -16,10 +16,10 @@
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
 <a href="https:// twitter.com/itaminosakebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/twitter.svg" alt="itaminosakebi" height="30" width="40" /></a> <
-a href="https://linkedin.com/in/kemalguney/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="kemalguney/" yükseklik="30" genişlik="40" /></a>
-<a href="https://fb.com/kingsauron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/facebook.svg" alt="kingsauron/" height="30" width="40" /></a> <a href="
-https://instagram.com /kemal.south/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/instagram.svg" alt="kemal.south/" height="30" width="40" /></a> <
-a href="https://discord.gg/#3148" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3148" height="30" width="40" /></a>
+a href="https://linkedin.com/in/in/kemalguney/" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="in/kemalguney/" yükseklik="30"genişlik="40" /></a>
+<a href="https://fb.com//kingsauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/facebook.svg" alt="/kingsauron" height="30" width="40" /></a> <a href="
+https://instagram.com //kemal.south/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/instagram.svg" alt="/kemal.south/" height="30" width="40" /></a>
+<a href="https://discord.gg/#3148" target= "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3148" height="30" width="40" /></a>
 </ p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
